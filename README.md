@@ -1,5 +1,17 @@
 # DebuggersGPT: AI-Powered Chat & Knowledge Assistant
 
+## Project Overview
+
+DebuggersGPT is an intelligent assistant platform designed to help users troubleshoot, search, and retrieve information across multiple sources—such as web, documents, logs, and emails—using advanced AI and retrieval techniques. The application provides a seamless chat interface where users can ask questions, get contextual answers, and interact with a system that combines large language models (LLMs), semantic search, and retrieval-augmented generation (RAG).
+
+**Key Purpose:**
+
+- Empower users (developers, support teams, SREs, etc.) to quickly find answers, root causes, and documentation by chatting with an AI that understands context and can search across web, help docs, logs, and emails.
+- Streamline troubleshooting, knowledge discovery, and information retrieval in complex environments.
+- Integrate authentication, chat history, and extensible agent workflows for a robust, enterprise-ready solution.
+
+---
+
 ## Overview
 
 DebuggersGPT is a full-stack application that combines a React-based frontend with a Python Flask backend to deliver an AI-powered chat assistant. The system leverages advanced LLMs (Gemini, LangChain, etc.), semantic search (FAISS, ElasticSearch), and RAG (Retrieval-Augmented Generation) pipelines to answer user queries using web, document, log, and email data. It supports user authentication, chat history, and multi-source knowledge retrieval.
